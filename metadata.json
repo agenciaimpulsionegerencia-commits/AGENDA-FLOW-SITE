@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of Copy of AGENDA FLOW - Sistema de Agendamento",
+  "description": "Sistema inteligente de gestão de agendamentos para clínicas de estética.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
